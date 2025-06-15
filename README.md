@@ -5,3 +5,6 @@
 </p>
 
 ## Leader Arm Designs
+<p align="center">
+  <img src="images/leader.jpg"/>
+</p>
