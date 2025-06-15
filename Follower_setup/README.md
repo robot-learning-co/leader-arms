@@ -24,15 +24,7 @@ Select the configuration that best matches your task or experiment with new ones
 
 ## Bill of Materials — Frame
 
-| Qty | Item | Notes | Price |
-|-----|------|-------|-------|
-| 3 × | 30 × 30 x 500 mm **aluminium extrusions** | [Amazon](https://www.amazon.com/dp/B0D8VF9CF8?th=1) (one package contains four) | $43.99 |
-| 2 × | **Quick-release clamps** | [Amazon](https://www.amazon.com/dp/B0875TD935?th=1) (one package contains two) | $21.99 |
-| ~ 15 ×| **M8 bolts** | [Amazon](https://www.amazon.com/dp/B07NTH7FHY?th=1) (smallest package) | 8.99 | 
-| ~ 15 ×| **M8 T-nuts** | [Amazon](https://www.amazon.com/dp/B0CSX4NX7R?th=1) |
-| —   | **M3 bolts** | [Amazon](https://www.amazon.com/dp/B07NTH7FHY?th=1) | 8.99
-| —   | **Cameras and camera cables** |  |
-| —   | **Zip ties** | |
+tbd 
 
 ### 3-D-Printed Parts
 
