@@ -20,7 +20,7 @@ The gripper is adapted from [Philipp Wu’s open-source model](<https://github.c
 |-----|------|------|-------|
 | 7 × | **Dynamixel XL330-M077-T** | [ROBOTIS](<https://en.robotis.com/shop_en/item.php?it_id=902-0162-000>) | $23.90
 | 1 × | **Servo Control Board**| [Amazon](<https://www.amazon.com/dp/B0CTMM4LWK>) | $10.55 |
-| 1 × | **power supply** 5V | [Amazon](<https://www.amazon.com/dp/B09W8X9VGK>) | $7.99 |
+| 1 × | **Power supply** 5V | [Amazon](<https://www.amazon.com/dp/B09W8X9VGK>) | $7.99 |
 | 1 × | **USB-C cable** | — |
 | —   | **3-D-printed parts** (STLs below) | — |
 
