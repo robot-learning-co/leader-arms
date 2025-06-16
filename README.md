@@ -19,3 +19,4 @@ Software integrations for both arm types can be found in [our fork of LeRobot](h
 This project would not have been possible without:
 - [GELLO](https://wuphilipp.github.io/gello_site/) by Philipp Wu et al.
 - [LeRobot](https://github.com/huggingface/lerobot) by HuggingFace
+- [Low-Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot) by Alexander Koch
