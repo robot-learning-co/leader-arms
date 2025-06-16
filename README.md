@@ -9,3 +9,13 @@ This repo contains a leader arm design which is kinematically equivalent to two 
 <p align="center">
   <img src="images/leader.jpg"/>
 </p>
+
+## Integrations
+Software integrations for both arm types can be found in [our fork of LeRobot](https://github.com/robot-learning-co/lerobot). Check out the corresponding branches. 
+
+**(Update to LeRobot's new Hardware API coming soon.)**
+
+## Acknowledgements
+This project would've not been possible without:
+- [GELLO](https://wuphilipp.github.io/gello_site/) by Philipp Wu et al.
+- [LeRobot](https://github.com/huggingface/lerobot) by HuggingFace
