@@ -16,6 +16,6 @@ Software integrations for both arm types can be found in [our fork of LeRobot](h
 **(Update to LeRobot's new Hardware API coming soon.)**
 
 ## Acknowledgements
-This project would've not been possible without:
+This project would not have been possible without:
 - [GELLO](https://wuphilipp.github.io/gello_site/) by Philipp Wu et al.
 - [LeRobot](https://github.com/huggingface/lerobot) by HuggingFace
